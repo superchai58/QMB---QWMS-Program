@@ -1,0 +1,110 @@
+C:\Users\10804005\Desktop\Report\QWMS_SendData\obj\Debug\QWMS_SendData.csproj.CoreCompileInputs.cache
+C:\Users\10804005\Desktop\Report\QWMS_SendData\bin\Debug\QWMS_SendData.exe.config
+C:\Users\10804005\Desktop\Report\QWMS_SendData\bin\Debug\QWMS_SendData.exe
+C:\Users\10804005\Desktop\Report\QWMS_SendData\bin\Debug\QWMS_SendData.pdb
+C:\Users\10804005\Desktop\Report\QWMS_SendData\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\10804005\Desktop\Report\QWMS_SendData\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\10804005\Desktop\Report\QWMS_SendData\bin\Debug\NPOI.dll
+C:\Users\10804005\Desktop\Report\QWMS_SendData\bin\Debug\NPOI.OOXML.dll
+C:\Users\10804005\Desktop\Report\QWMS_SendData\bin\Debug\NPOI.OpenXml4Net.dll
+C:\Users\10804005\Desktop\Report\QWMS_SendData\bin\Debug\NPOI.OpenXmlFormats.dll
+C:\Users\10804005\Desktop\Report\QWMS_SendData\bin\Debug\QMSSDK.dll
+C:\Users\10804005\Desktop\Report\QWMS_SendData\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\10804005\Desktop\Report\QWMS_SendData\bin\Debug\ICSharpCode.SharpZipLib.pdb
+C:\Users\10804005\Desktop\Report\QWMS_SendData\bin\Debug\ICSharpCode.SharpZipLib.xml
+C:\Users\10804005\Desktop\Report\QWMS_SendData\bin\Debug\NPOI.xml
+C:\Users\10804005\Desktop\Report\QWMS_SendData\bin\Debug\NPOI.OOXML.xml
+C:\Users\10804005\Desktop\Report\QWMS_SendData\bin\Debug\NPOI.OpenXml4Net.xml
+C:\Users\10804005\Desktop\Report\QWMS_SendData\obj\Debug\QWMS_SendData.csproj.CopyComplete
+C:\Users\10804005\Desktop\Report\QWMS_SendData\obj\Debug\QWMS_SendData.exe
+C:\Users\10804005\Desktop\Report\QWMS_SendData\obj\Debug\QWMS_SendData.pdb
+C:\Users\10804005\Desktop\Report\QWMS_SendData\obj\Debug\QWMS_SendData.csprojAssemblyReference.cache
+C:\Users\10804005\Desktop\QMB\QWMS_SendData\bin\Debug\QWMS_SendData.exe.config
+C:\Users\10804005\Desktop\QMB\QWMS_SendData\bin\Debug\QWMS_SendData.exe
+C:\Users\10804005\Desktop\QMB\QWMS_SendData\bin\Debug\QWMS_SendData.pdb
+C:\Users\10804005\Desktop\QMB\QWMS_SendData\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\10804005\Desktop\QMB\QWMS_SendData\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\10804005\Desktop\QMB\QWMS_SendData\bin\Debug\NPOI.dll
+C:\Users\10804005\Desktop\QMB\QWMS_SendData\bin\Debug\NPOI.OOXML.dll
+C:\Users\10804005\Desktop\QMB\QWMS_SendData\bin\Debug\NPOI.OpenXml4Net.dll
+C:\Users\10804005\Desktop\QMB\QWMS_SendData\bin\Debug\NPOI.OpenXmlFormats.dll
+C:\Users\10804005\Desktop\QMB\QWMS_SendData\bin\Debug\QMSSDK.dll
+C:\Users\10804005\Desktop\QMB\QWMS_SendData\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\10804005\Desktop\QMB\QWMS_SendData\bin\Debug\ICSharpCode.SharpZipLib.pdb
+C:\Users\10804005\Desktop\QMB\QWMS_SendData\bin\Debug\ICSharpCode.SharpZipLib.xml
+C:\Users\10804005\Desktop\QMB\QWMS_SendData\bin\Debug\NPOI.xml
+C:\Users\10804005\Desktop\QMB\QWMS_SendData\bin\Debug\NPOI.OOXML.xml
+C:\Users\10804005\Desktop\QMB\QWMS_SendData\bin\Debug\NPOI.OpenXml4Net.xml
+C:\Users\10804005\Desktop\QMB\QWMS_SendData\obj\Debug\QWMS_SendData.csproj.AssemblyReference.cache
+C:\Users\10804005\Desktop\QMB\QWMS_SendData\obj\Debug\QWMS_SendData.csproj.CoreCompileInputs.cache
+C:\Users\10804005\Desktop\QMB\QWMS_SendData\obj\Debug\QWMS_SendData.csproj.CopyComplete
+C:\Users\10804005\Desktop\QMB\QWMS_SendData\obj\Debug\QWMS_SendData.exe
+C:\Users\10804005\Desktop\QMB\QWMS_SendData\obj\Debug\QWMS_SendData.pdb
+D:\CHAI\Program\PU9\SMT\QWMS_SendData\bin\Debug\QWMS_SendData.exe.config
+D:\CHAI\Program\PU9\SMT\QWMS_SendData\obj\Debug\QWMS_SendData.exe
+D:\CHAI\Program\PU9\SMT\QWMS_SendData\obj\Debug\QWMS_SendData.pdb
+D:\CHAI\Program\PU9\SMT\QWMS_SendData\bin\Debug\QWMS_SendData.exe
+D:\CHAI\Program\PU9\SMT\QWMS_SendData\bin\Debug\QWMS_SendData.pdb
+D:\CHAI\Program\PU9\SMT\QWMS_SendData\bin\Debug\BouncyCastle.Crypto.dll
+D:\CHAI\Program\PU9\SMT\QWMS_SendData\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\CHAI\Program\PU9\SMT\QWMS_SendData\bin\Debug\NPOI.dll
+D:\CHAI\Program\PU9\SMT\QWMS_SendData\bin\Debug\NPOI.OOXML.dll
+D:\CHAI\Program\PU9\SMT\QWMS_SendData\bin\Debug\NPOI.OpenXml4Net.dll
+D:\CHAI\Program\PU9\SMT\QWMS_SendData\bin\Debug\NPOI.OpenXmlFormats.dll
+D:\CHAI\Program\PU9\SMT\QWMS_SendData\bin\Debug\QMSSDK.dll
+D:\CHAI\Program\PU9\SMT\QWMS_SendData\bin\Debug\BouncyCastle.Crypto.xml
+D:\CHAI\Program\PU9\SMT\QWMS_SendData\bin\Debug\ICSharpCode.SharpZipLib.pdb
+D:\CHAI\Program\PU9\SMT\QWMS_SendData\bin\Debug\ICSharpCode.SharpZipLib.xml
+D:\CHAI\Program\PU9\SMT\QWMS_SendData\bin\Debug\NPOI.xml
+D:\CHAI\Program\PU9\SMT\QWMS_SendData\bin\Debug\NPOI.OOXML.xml
+D:\CHAI\Program\PU9\SMT\QWMS_SendData\bin\Debug\NPOI.OpenXml4Net.xml
+\\10.94.7.13\d$\QWMS Program\QWMS_SendData\bin\Debug\QWMS_SendData.exe.config
+\\10.94.7.13\d$\QWMS Program\QWMS_SendData\obj\Debug\QWMS_SendData.exe
+\\10.94.7.13\d$\QWMS Program\QWMS_SendData\obj\Debug\QWMS_SendData.pdb
+\\10.94.7.13\d$\QWMS Program\QWMS_SendData\bin\Debug\QWMS_SendData.exe
+\\10.94.7.13\d$\QWMS Program\QWMS_SendData\bin\Debug\QWMS_SendData.pdb
+\\10.94.7.13\d$\QWMS Program\QWMS_SendData\bin\Debug\BouncyCastle.Crypto.dll
+\\10.94.7.13\d$\QWMS Program\QWMS_SendData\bin\Debug\ICSharpCode.SharpZipLib.dll
+\\10.94.7.13\d$\QWMS Program\QWMS_SendData\bin\Debug\NPOI.dll
+\\10.94.7.13\d$\QWMS Program\QWMS_SendData\bin\Debug\NPOI.OOXML.dll
+\\10.94.7.13\d$\QWMS Program\QWMS_SendData\bin\Debug\NPOI.OpenXml4Net.dll
+\\10.94.7.13\d$\QWMS Program\QWMS_SendData\bin\Debug\NPOI.OpenXmlFormats.dll
+\\10.94.7.13\d$\QWMS Program\QWMS_SendData\bin\Debug\QMSSDK.dll
+\\10.94.7.13\d$\QWMS Program\QWMS_SendData\bin\Debug\BouncyCastle.Crypto.xml
+\\10.94.7.13\d$\QWMS Program\QWMS_SendData\bin\Debug\ICSharpCode.SharpZipLib.pdb
+\\10.94.7.13\d$\QWMS Program\QWMS_SendData\bin\Debug\ICSharpCode.SharpZipLib.xml
+\\10.94.7.13\d$\QWMS Program\QWMS_SendData\bin\Debug\NPOI.xml
+\\10.94.7.13\d$\QWMS Program\QWMS_SendData\bin\Debug\NPOI.OOXML.xml
+\\10.94.7.13\d$\QWMS Program\QWMS_SendData\bin\Debug\NPOI.OpenXml4Net.xml
+D:\CHAI\Program\PU9\SMT\QWMS_SendData\bin\Debug\Microsoft.Office.Interop.Excel.dll
+D:\CHAI\Program\PU9\SMT\QWMS_SendData\bin\Debug\office.dll
+D:\CHAI\Program\PU9\SMT\QWMS_SendData\bin\Debug\Microsoft.Vbe.Interop.dll
+D:\CHAI\Program\PU9\SMT\QWMS_SendData\bin\Debug\stdole.dll
+\\10.94.7.13\d$\QWMS Program\QWMS_SendData\bin\Debug\Microsoft.Office.Interop.Excel.dll
+\\10.94.7.13\d$\QWMS Program\QWMS_SendData\bin\Debug\office.dll
+\\10.94.7.13\d$\QWMS Program\QWMS_SendData\bin\Debug\Microsoft.Vbe.Interop.dll
+\\10.94.7.13\d$\QWMS Program\QWMS_SendData\bin\Debug\stdole.dll
+\\10.94.7.13\d$\QWMS Program\QWMS_SendData\obj\Debug\QWMS_SendData.csprojResolveAssemblyReference.cache
+D:\CHAI\Program\PU9\SMT\QWMS Program\QWMS_SendData\bin\Debug\QWMS_SendData.exe.config
+D:\CHAI\Program\PU9\SMT\QWMS Program\QWMS_SendData\obj\Debug\QWMS_SendData.exe
+D:\CHAI\Program\PU9\SMT\QWMS Program\QWMS_SendData\obj\Debug\QWMS_SendData.pdb
+D:\CHAI\Program\PU9\SMT\QWMS Program\QWMS_SendData\bin\Debug\QWMS_SendData.exe
+D:\CHAI\Program\PU9\SMT\QWMS Program\QWMS_SendData\bin\Debug\QWMS_SendData.pdb
+D:\CHAI\Program\PU9\SMT\QWMS Program\QWMS_SendData\bin\Debug\BouncyCastle.Crypto.dll
+D:\CHAI\Program\PU9\SMT\QWMS Program\QWMS_SendData\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\CHAI\Program\PU9\SMT\QWMS Program\QWMS_SendData\bin\Debug\NPOI.dll
+D:\CHAI\Program\PU9\SMT\QWMS Program\QWMS_SendData\bin\Debug\NPOI.OOXML.dll
+D:\CHAI\Program\PU9\SMT\QWMS Program\QWMS_SendData\bin\Debug\NPOI.OpenXml4Net.dll
+D:\CHAI\Program\PU9\SMT\QWMS Program\QWMS_SendData\bin\Debug\NPOI.OpenXmlFormats.dll
+D:\CHAI\Program\PU9\SMT\QWMS Program\QWMS_SendData\bin\Debug\QMSSDK.dll
+D:\CHAI\Program\PU9\SMT\QWMS Program\QWMS_SendData\bin\Debug\Microsoft.Office.Interop.Excel.dll
+D:\CHAI\Program\PU9\SMT\QWMS Program\QWMS_SendData\bin\Debug\office.dll
+D:\CHAI\Program\PU9\SMT\QWMS Program\QWMS_SendData\bin\Debug\Microsoft.Vbe.Interop.dll
+D:\CHAI\Program\PU9\SMT\QWMS Program\QWMS_SendData\bin\Debug\stdole.dll
+D:\CHAI\Program\PU9\SMT\QWMS Program\QWMS_SendData\bin\Debug\BouncyCastle.Crypto.xml
+D:\CHAI\Program\PU9\SMT\QWMS Program\QWMS_SendData\bin\Debug\ICSharpCode.SharpZipLib.pdb
+D:\CHAI\Program\PU9\SMT\QWMS Program\QWMS_SendData\bin\Debug\ICSharpCode.SharpZipLib.xml
+D:\CHAI\Program\PU9\SMT\QWMS Program\QWMS_SendData\bin\Debug\NPOI.xml
+D:\CHAI\Program\PU9\SMT\QWMS Program\QWMS_SendData\bin\Debug\NPOI.OOXML.xml
+D:\CHAI\Program\PU9\SMT\QWMS Program\QWMS_SendData\bin\Debug\NPOI.OpenXml4Net.xml
+D:\CHAI\Program\PU9\SMT\QWMS Program\QWMS_SendData\obj\Debug\QWMS_SendData.csprojResolveAssemblyReference.cache
