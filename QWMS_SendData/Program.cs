@@ -256,6 +256,34 @@ namespace QWMS_SendData
                     cmd.CommandTimeout = 180;
                     oCon.ExecuteCommand(cmd);
                     //Add log to record result of connect to MIS (Not connected MIS) (End)      superchai modify    20230316
+
+                    //superchai modify  20230314    (Begin)
+                    oCon = new ConnectDBSMT();
+                    cmd = new SqlCommand();
+                    DataTable dt = new DataTable();
+                    string referenceIDList = "";
+
+                    cmd.CommandText = @"SELECT distinct ReferenceID
+                                    FROM[10.94.7.15].QSMS.dbo.QSMS_DID_ToWH with(nolock)
+                                    WHERE ToWHType = 'Return'
+                                    and IsGood = 'Y'
+                                    and ReferenceID<> ''
+                                    and warehouseid<> ''
+                                    and status = '2'
+                                    and BatchNo = ''";
+                    cmd.CommandTimeout = 180;
+                    dt = oCon.Query(cmd);
+
+                    if (dt.Rows.Count > 0)
+                    {
+                        foreach (DataRow row in dt.Rows)
+                        {
+                            referenceIDList += row["ReferenceID"].ToString().Trim() + ";";
+                        }
+                    }
+
+                    DB.SendMail("SendQWMSFail", referenceIDList);
+                    //superchai modify  20230314    (End)
                 }
                 catch (Exception)
                 {}
@@ -273,6 +301,34 @@ namespace QWMS_SendData
                     cmd.CommandTimeout = 180;
                     oCon.ExecuteCommand(cmd);
                     //Add log to record result of connect to MIS (Not connected MIS) (End)      superchai modify    20230316
+
+                    //superchai modify  20230314    (Begin)
+                    oCon = new ConnectDBSMT();
+                    cmd = new SqlCommand();
+                    DataTable dt = new DataTable();
+                    string referenceIDList = "";
+
+                    cmd.CommandText = @"SELECT distinct ReferenceID
+                                    FROM[10.94.7.15].QSMS.dbo.QSMS_DID_ToWH with(nolock)
+                                    WHERE ToWHType = 'Return'
+                                    and IsGood = 'Y'
+                                    and ReferenceID<> ''
+                                    and warehouseid<> ''
+                                    and status = '2'
+                                    and BatchNo = ''";
+                    cmd.CommandTimeout = 180;
+                    dt = oCon.Query(cmd);
+
+                    if (dt.Rows.Count > 0)
+                    {
+                        foreach (DataRow row in dt.Rows)
+                        {
+                            referenceIDList += row["ReferenceID"].ToString().Trim() + ";";
+                        }
+                    }
+
+                    DB.SendMail("SendQWMSFail", referenceIDList);
+                    //superchai modify  20230314    (End)
                 }
                 catch (Exception)
                 {}
